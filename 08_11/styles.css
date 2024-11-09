@@ -1,0 +1,13 @@
+.fundo{
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+    font-size: 24px;
+}
+.nome_pessoal{
+    color: rgb(43, 226, 186);
+}
+.lista{
+    display: flex;
+    flex-direction: column;
+}
